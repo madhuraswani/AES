@@ -1,2 +1,2 @@
 # AES
-AWS 128 bit Encryption
+AES 128 bit Encryption
